@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://feeds.feedburner.com/Datagenx
+          feed-url: https://www.datagenx.net/rss.xml
           readme-section: feed
           max: 8 # max number of items (default 5)
           branch: 'main'
