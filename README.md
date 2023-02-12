@@ -25,5 +25,5 @@ I've been working in the industry as a software engineer and a consultant for al
 
 
 ## 📙 Recent Blog Posts
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
+<!--START_SECTION:posts-->
+<!--END_SECTION:posts-->

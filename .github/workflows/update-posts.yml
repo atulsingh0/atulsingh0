@@ -3,7 +3,7 @@ name: Update readme with blog posts
 
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: '0 8 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,9 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://www.datagenx.net/rss.xml
-          readme-section: feed
+          feed-url: https://feeds.feedburner.com/Datagenx
+          readme-section: posts   # where to put the posts details in README
           max: 8 # max number of items (default 5)
           branch: 'main'
+          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
+
