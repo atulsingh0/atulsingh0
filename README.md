@@ -15,7 +15,7 @@
  </a>
 </p>
 
-I've been working in the industry as a software engineer and a consultant for almost a decade now in various deciplines. I mainly work with Go, Python, AWS/GCP and .NET nowadays, but always on the lookout to learn new things. During my free time, I run my blog at [datagenx](https://www.datagenx.net/) where I share my learnings and tutorials to help developers around the world.
+I've been working in the industry as a software engineer and a consultant for almost a decade now in various deciplines. I mainly work with Go, Python, AWS/GCP and Orchestration (k8s/nomad) nowadays, but always on the lookout to learn new things. During my free time, I run my blog at [datagenx](https://www.datagenx.net/) where I share my learnings and tutorials to help developers around the world.
 
 - 📝 I blog here: https://www.datagenx.net/
 - 💬  Ask me about my favorite programming language
