@@ -21,9 +21,8 @@ I've been working in the industry as a software engineer and a consultant for al
 - 💬  Ask me about my favorite programming language
 - 📫 Follow me on Twitter [@datagenx](https://twitter.com/datagenx) and LinkedIn [@atulsingh0](https://www.linkedin.com/in/atulsingh0/)
 
-[![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=atulsingh0)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 📙 Recent Blog Posts
 <!--START_SECTION:posts-->
 <!--END_SECTION:posts-->
+
+[![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=atulsingh0)](https://github.com/anuraghazra/github-readme-stats)

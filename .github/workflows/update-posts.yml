@@ -6,21 +6,16 @@ on:
     - cron: '0 8 * * *'
   workflow_dispatch:
 
-permissions:
-  actions: write
-  contents: read
-  pull-requests: write
-  id-token: write
-
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v2.0.0
+      - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://feeds.feedburner.com/Datagenx
           readme-section: posts   # where to put the posts details in README
-          max: 8 # max number of items (default 5)
+          max: 10 # max number of items (default 5)
+          empty-commits: true
           branch: 'main'
-          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
+          #template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
 
