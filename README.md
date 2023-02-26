@@ -39,4 +39,6 @@ I've been working in the industry as a software engineer and a consultant for al
 * [These Toolkits should be known to every developer](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2022&#x2F;09&#x2F;these-toolkits-should-be-known-to-every.html)
 <!--END_SECTION:posts-->
 
-[![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=atulsingh0)](https://github.com/anuraghazra/github-readme-stats)
+## Github Stats
+<img src="https://github.com/atulsingh0/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/atulsingh0/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
