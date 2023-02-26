@@ -43,6 +43,6 @@ I've been working in the industry as a software engineer and a consultant for al
 <p align="center">
 <img src="https://github.com/atulsingh0/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats">
 <img src="https://github.com/atulsingh0/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Most used languages"><br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=atulsingh0&&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Trophies"><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=atulsingh0&show_icons=true&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ranking">
+<img src="https://github-readme-stats.vercel.app/api?username=atulsingh0&show_icons=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Ranking">
+<img src="https://github-profile-trophy.vercel.app/?username=atulsingh0&&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Trophies"><br/><br/>
 <p/>
