@@ -13,6 +13,7 @@
  <a href="https://www.datagenx.net" alt="Atul's blog">
    <img src="https://img.shields.io/badge/atulsingh0-FFA500?style=flat-square&logo=rss&logoColor=white" />
  </a>
+<img src="https://img.shields.io/github/followers/atulsingh0.svg?style=social&label=Follow%20Me" width="125">
 </p>
 
 I've been working in the industry as a software engineer and a consultant for almost a decade now in various deciplines. I mainly work with Go, Python, AWS/GCP and Orchestration (k8s/nomad) nowadays, but always on the lookout to learn new things. During my free time, I run my blog at [datagenx](https://www.datagenx.net/) where I share my learnings and tutorials to help developers around the world.
