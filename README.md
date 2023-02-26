@@ -27,6 +27,7 @@ I've been working in the industry as a software engineer and a consultant for al
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:posts-->
+* [Connecting to Oracle DB in Linux Shell Script](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;02&#x2F;connecting-to-oracle-db-in-linux-shell.html)
 * [Enabling your Shell Environment for Enhanced Developer Experience - Part-2](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;01&#x2F;enabling-your-shell-environment-for.html)
 * [Enabling your Shell Environment for Enhanced Developer Experience](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2022&#x2F;11&#x2F;enabling-your-shell-environment-for.html)
 * [Docker: Overriding ENTRYPOINT and CMD ](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2022&#x2F;10&#x2F;docker-overriding-entrypoint-and-cmd.html)
@@ -36,7 +37,6 @@ I've been working in the industry as a software engineer and a consultant for al
 * [Few tips for your Docker Environment](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2022&#x2F;10&#x2F;few-tips-for-your-docker-environment.html)
 * [Golang - Reading multiline input](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2022&#x2F;09&#x2F;golang-reading-multiline-input.html)
 * [Golang - Reading User input from Terminal](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2022&#x2F;09&#x2F;golang-reading-user-input-from-terminal.html)
-* [These Toolkits should be known to every developer](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2022&#x2F;09&#x2F;these-toolkits-should-be-known-to-every.html)
 <!--END_SECTION:posts-->
 
 ## My Github Stats
