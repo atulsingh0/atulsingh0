@@ -20,9 +20,9 @@ I've been working in the industry as a software engineer and a consultant for al
 
 - 📝 I blog here: https://www.datagenx.net/
 - 💬  Ask me about Cloud, Orchestration (k8s/Nomad), Cloud Architecture, and Databases
-- 📫 Follow me on Twitter [@datagenx](https://twitter.com/datagenx) and LinkedIn [@atulsingh0](https://www.linkedin.com/in/atulsingh0/)
 - I can advise on - ![AWS,AZURE,GCP,K8s,Openshift,Docker](https://skillicons.dev/icons?i=aws,azure,gcp,k8s,openshift,docker)
-- Still in learning mode for ![Python,Go](https://skillicons.dev/icons?i=python,go)
+- Always learning ![Python,Go](https://skillicons.dev/icons?i=python,go)
+- 📫 Follow me on Twitter [@datagenx](https://twitter.com/datagenx) and LinkedIn [@atulsingh0](https://www.linkedin.com/in/atulsingh0/)
 - Few more tools where I spend most of my day - ![My Skills](https://skillicons.dev/icons?i=bash,vim,vscode,linux)
 
 ## 📙 Recent Blog Posts
