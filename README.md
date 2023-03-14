@@ -1,4 +1,8 @@
-<h1 align="center"> Hi there, I'm Atul 👋 </h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<h1 align="center"> Hi there, I'm Atul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ </h1>
 
 <p align="center">
  <a href="https://twitter.com/datagenx" alt="Atul's twitter">
@@ -18,12 +22,13 @@
 
 I've been working in the industry as a software engineer and a consultant for almost a decade now in various deciplines. I mainly work with Go, Python, AWS/GCP and Orchestration (k8s/nomad) nowadays, but always on the lookout to learn new things. During my free time, I run my blog at [datagenx](https://www.datagenx.net/) where I share my learnings and tutorials to help developers around the world.
 
-- 📝 I blog here: https://www.datagenx.net/
+- ✏  I blog here: https://www.datagenx.net/
 - 💬  Ask me about Cloud, Orchestration (k8s/Nomad), Cloud Architecture, and Databases
 - I can advise on - ![AWS,AZURE,GCP,K8s,Openshift,Docker](https://skillicons.dev/icons?i=aws,azure,gcp,k8s,openshift,docker)
-- Always learning ![Python,Go](https://skillicons.dev/icons?i=python,go)
+- 👽 Always learning ![Python,Go](https://skillicons.dev/icons?i=python,go)
 - 📫 Follow me on Twitter [@datagenx](https://twitter.com/datagenx) and LinkedIn [@atulsingh0](https://www.linkedin.com/in/atulsingh0/)
 - Few more tools where I spend most of my day - ![My Skills](https://skillicons.dev/icons?i=bash,vim,vscode,linux)
+- 📕 My reading [list](https://atulsingh0.github.io/books/)
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:posts-->
