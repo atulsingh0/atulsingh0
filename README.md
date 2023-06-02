@@ -32,6 +32,7 @@ I've been working in the industry as a software engineer and a consultant for al
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:posts-->
+* [Get User details from Github Token](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;06&#x2F;get-user-details-from-github-token.html)
 * [Generating Support Bundle of k8s cluster ](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;05&#x2F;generating-support-bundle-of-k8s-cluster.html)
 * [Connecting to Oracle DB in Linux Shell Script](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;02&#x2F;connecting-to-oracle-db-in-linux-shell.html)
 * [Enabling your Shell Environment for Enhanced Developer Experience - Part-2](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;01&#x2F;enabling-your-shell-environment-for.html)
@@ -41,7 +42,6 @@ I've been working in the industry as a software engineer and a consultant for al
 * [K8s cluster on your local machine via k3d](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2022&#x2F;10&#x2F;k8s-cluster-on-your-local-machine-via.html)
 * [Random Number Genearion with crypto&#x2F;rand - Golang](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2022&#x2F;10&#x2F;random-number-genearion-with-cryptorand.html)
 * [Few tips for your Docker Environment](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2022&#x2F;10&#x2F;few-tips-for-your-docker-environment.html)
-* [Golang - Reading multiline input](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2022&#x2F;09&#x2F;golang-reading-multiline-input.html)
 <!--END_SECTION:posts-->
 
 ## My Github Stats
