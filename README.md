@@ -46,6 +46,9 @@ I've been working in the industry as a software engineer and a consultant for al
 
 ## My Github Stats
 <p align="center">
+  <a href="https://github.com/atulsingh0">
+    <img src="https://komarev.com/ghpvc/?username=atulsingh0&color=blue&style=flat)" />
+  </a>
 <!-- <img src="https://github.com/atulsingh0/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats">
 <img src="https://github.com/atulsingh0/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Most used languages"><br/><br/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulsingh0&theme=dark" alt="Streak Status">
