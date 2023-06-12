@@ -25,10 +25,21 @@ I've been working in the industry as a software engineer and a consultant for al
 - ✏  I blog here: https://www.datagenx.net/
 - 💬  Ask me about Cloud, Orchestration (k8s/Nomad), Cloud Architecture, and Databases
 - I can advise on - ![AWS,AZURE,GCP,K8s,Openshift,Docker](https://skillicons.dev/icons?i=aws,azure,gcp,k8s,openshift,docker)
-- 👽 Always learning ![Python,Go](https://skillicons.dev/icons?i=python,go)
 - 📫 Follow me on Twitter [@datagenx](https://twitter.com/datagenx) and LinkedIn [@atulsingh0](https://www.linkedin.com/in/atulsingh0/)
 - Few more tools where I spend most of my day - ![My Skills](https://skillicons.dev/icons?i=bash,vim,vscode,linux)
 - 📕 My reading [list](https://atulsingh0.github.io/books/)
+
+### Cloud
+[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/atulsingh0)
+[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/atulsingh0)
+[![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/atulsingh0)
+
+
+### Languages
+[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/atulsingh0)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/atulsingh0)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/atulsingh0)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/atulsingh0)
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:posts-->
@@ -46,12 +57,15 @@ I've been working in the industry as a software engineer and a consultant for al
 
 ## My Github Stats
 <p align="center">
-  <a href="https://github.com/atulsingh0">
-    <img src="https://komarev.com/ghpvc/?username=atulsingh0&color=blue&style=flat)" />
-  </a>
 <!-- <img src="https://github.com/atulsingh0/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats">
 <img src="https://github.com/atulsingh0/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Most used languages"><br/><br/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulsingh0&theme=dark" alt="Streak Status">
 <img src="https://github-readme-stats.vercel.app/api?username=atulsingh0&show_icons=true&theme=dark" alt="Ranking"><br/><br/>
 <img src="https://github-profile-trophy.vercel.app/?username=atulsingh0&&theme=dark" alt="Trophies"><br/><br/>
 <p/>
+
+<p align="center">
+  <a href="https://github.com/atulsingh0">
+    <img src="https://komarev.com/ghpvc/?username=atulsingh0&color=blue&style=flat)" />
+  </a>
+</p>
