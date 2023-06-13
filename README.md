@@ -57,15 +57,27 @@ I've been working in the industry as a software engineer and a consultant for al
 
 ## My Github Stats
 <p align="center">
-<!-- <img src="https://github.com/atulsingh0/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats">
-<img src="https://github.com/atulsingh0/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Most used languages"><br/><br/> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atulsingh0&theme=dark" alt="Streak Status">
-<img src="https://github-readme-stats.vercel.app/api?username=atulsingh0&show_icons=true&theme=dark" alt="Ranking"><br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=atulsingh0&&theme=dark" alt="Trophies"><br/><br/>
-<p/>
-
-<p align="center">
+  <a href="https://github.com/atulsingh0">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atulsingh0&theme=dark" />
+  </a>
+  <a href="https://github.com/atulsingh0">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulsingh0&hide_border=true&card_width=338&theme=dark" />
+  </a>
+  <a href="https://github.com/atulsingh0">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atulsingh0&theme=dark" />
+  </a>
+   <a href="https://github.com/atulsingh0">
+    <img src="https://github-profile-trophy.vercel.app/?username=atulsingh0&&theme=dark" alt="Trophies" />
+   </a>
   <a href="https://github.com/atulsingh0">
     <img src="https://komarev.com/ghpvc/?username=atulsingh0&color=blue&style=flat)" />
   </a>
-</p>
+ <p/>
+
+<!--
+<!-- 
+<img src="https://github.com/atulsingh0/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats">
+<img src="https://github.com/atulsingh0/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Most used languages"><br/><br/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atulsingh0&theme=dark" alt="Streak Status">
+<img src="https://github-readme-stats.vercel.app/api?username=atulsingh0&show_icons=true&theme=dark" alt="Ranking"><br/><br/>
+-->
