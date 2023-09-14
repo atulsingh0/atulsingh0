@@ -55,6 +55,9 @@ I've been working in the industry as a software engineer and a consultant for al
 * [Golang - Listing Directory Content](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2022&#x2F;10&#x2F;golang-listing-directory-content.html)
 <!--END_SECTION:posts-->
 
+## My GPG Keys
+* [E4458C31C653F52B](https://keybase.io/datagenx/pgp_keys.asc )
+
 ## My Github Stats
 <p align="center">
   <a href="https://github.com/atulsingh0">
