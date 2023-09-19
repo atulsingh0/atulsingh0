@@ -43,6 +43,7 @@ I've been working in the industry as a software engineer and a consultant for al
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:posts-->
+* [Securing the SSH Keys](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;09&#x2F;securing-ssh-keys.html)
 * [Let&#39;s Sign your Git Commit with your SSH key](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;09&#x2F;lets-sign-your-git-commit-with-your-ssh.html)
 * [Let&#39;s Record the Shell Terminal](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;09&#x2F;lets-record-shell-terminal.html)
 * [Hashing (CheckSum) in Golang](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;08&#x2F;hashing-checksum-in-golang.html)
@@ -52,7 +53,6 @@ I've been working in the industry as a software engineer and a consultant for al
 * [Connecting to Oracle DB in Linux Shell Script](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;02&#x2F;connecting-to-oracle-db-in-linux-shell.html)
 * [Enabling your Shell Environment for Enhanced Developer Experience - Part-2](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;01&#x2F;enabling-your-shell-environment-for.html)
 * [Enabling your Shell Environment for Enhanced Developer Experience](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2022&#x2F;11&#x2F;enabling-your-shell-environment-for.html)
-* [Docker: Overriding ENTRYPOINT and CMD ](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2022&#x2F;10&#x2F;docker-overriding-entrypoint-and-cmd.html)
 <!--END_SECTION:posts-->
 
 ## My GPG Keys
