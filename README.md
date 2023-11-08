@@ -71,7 +71,7 @@ I've been working in the industry as a software engineer and a consultant for al
   </a>
 
   <a href="https://github.com/atulsingh0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh0&count_private=true&theme=dark&langs_count=9" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh0&count_private=true&theme=dark&langs_count=7" />
   </a>
 
 <!--    <a href="https://github.com/atulsingh0">
