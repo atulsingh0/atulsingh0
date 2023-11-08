@@ -63,9 +63,9 @@ I've been working in the industry as a software engineer and a consultant for al
   <a href="https://github.com/atulsingh0">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atulsingh0&theme=dark" />
   </a>
-  <a href="https://github.com/atulsingh0">
+<!--   <a href="https://github.com/atulsingh0">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulsingh0&hide_border=true&card_width=338&theme=dark" />
-  </a>
+  </a> -->
   <a href="https://github.com/atulsingh0">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atulsingh0&theme=dark" />
   </a>
