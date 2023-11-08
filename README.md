@@ -70,7 +70,9 @@ I've been working in the industry as a software engineer and a consultant for al
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atulsingh0&theme=dark" />
   </a>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh0&count_private=true&theme=tokyonight&layout=compact&langs_count=7)
+  <a href="https://github.com/atulsingh0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh0&count_private=true&theme=dark&langs_count=9" />
+  </a>
 
 <!--    <a href="https://github.com/atulsingh0">
     <img src="https://github-profile-trophy.vercel.app/?username=atulsingh0&&theme=dark" alt="Trophies" />
