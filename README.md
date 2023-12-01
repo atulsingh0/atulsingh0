@@ -43,6 +43,7 @@ I've been working in the industry as a software engineer and a consultant for al
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:posts-->
+* [Generate Revocation Certificate for GPG Key](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;11&#x2F;generate-revocation-certificate-for-gpg.html)
 * [Intro to GnuPG (GPG) - Generating Keys](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;11&#x2F;intro-to-gnupg-gpg-generating-keys.html)
 * [Securing the SSH Keys](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;09&#x2F;securing-ssh-keys.html)
 * [Let&#39;s Sign your Git Commit with your SSH key](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;09&#x2F;lets-sign-your-git-commit-with-your-ssh.html)
@@ -52,7 +53,6 @@ I've been working in the industry as a software engineer and a consultant for al
 * [Get User details from Github Token](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;06&#x2F;get-user-details-from-github-token.html)
 * [Generating Support Bundle of k8s cluster ](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;05&#x2F;generating-support-bundle-of-k8s-cluster.html)
 * [Connecting to Oracle DB in Linux Shell Script](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;02&#x2F;connecting-to-oracle-db-in-linux-shell.html)
-* [Enabling your Shell Environment for Enhanced Developer Experience - Part-2](http:&#x2F;&#x2F;www.datagenx.net&#x2F;2023&#x2F;01&#x2F;enabling-your-shell-environment-for.html)
 <!--END_SECTION:posts-->
 
 ## My GPG Keys
