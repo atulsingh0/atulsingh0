@@ -38,6 +38,7 @@ I've been working in the industry as a software engineer and a consultant for al
 ### Languages
 [![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/atulsingh0)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/atulsingh0)
+[![Julia](https://img.shields.io/badge/julia-black?style=for-the-badge&logo=julia)](https://github.com/atulsingh0)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/atulsingh0)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/atulsingh0)
 
