@@ -8,9 +8,8 @@
  <a href="https://github.com/atulsingh0" alt="Atul's github">
    <img src="https://img.shields.io/badge/-@atulsingh0-%23181717?style=flat-square&logo=github" />
  </a>
- <a href="https://www.linkedin.com/in/atulsingh0" alt="Atul's linkedin">
-   <img src="https://img.shields.io/badge/-atulsingh0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atulsingh0" />
- </a>
+   <img src="https://img.shields.io/badge/-atulsingh0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atulsingh0" /> -->
+
  <a href="https://www.datagenx.net" alt="Atul's blog">
    <img src="https://img.shields.io/badge/atulsingh0-FFA500?style=flat-square&logo=rss&logoColor=white" />
  </a>
