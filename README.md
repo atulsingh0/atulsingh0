@@ -9,7 +9,7 @@
    <img src="https://img.shields.io/badge/-@atulsingh0-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/atulsingh0" alt="Atul's linkedin">
-   <img src="https://img.shields.io/badge/-atulsingh0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahanserasinghe" />
+   <img src="https://img.shields.io/badge/-atulsingh0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atulsingh0" />
  </a>
  <a href="https://www.datagenx.net" alt="Atul's blog">
    <img src="https://img.shields.io/badge/atulsingh0-FFA500?style=flat-square&logo=rss&logoColor=white" />
@@ -17,6 +17,9 @@
  <a href="https://twitter.com/datagenx" alt="Atul's twitter">
    <img src="https://img.shields.io/badge/-@datagenx-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
  </a>  
+ <a href="https://masto.ai/@faceless" alt="Atul's mastodon">
+   <img src="https://img.shields.io/badge/-@atulsingh0-%23181717?style=flat-square&logo=mastodon" />
+ </a> 
 <img src="https://img.shields.io/github/followers/atulsingh0.svg?style=social&label=Follow%20Me" width="125">
 </p>
 
