@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://feeds.feedburner.com/Datagenx
+          feed-url: https://www.datagenx.net/feeds/posts/default
           readme-section: posts   # where to put the posts details in README
           max: 10 # max number of items (default 5)
           empty-commits: true
