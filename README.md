@@ -80,8 +80,8 @@ I've been working in the industry as a software engineer and a consultant for al
 * [Let's Sign your Git Commit with your SSH key](https://www.datagenx.net/2023/09/lets-sign-your-git-commit-with-your-ssh.html)
 <!--END_SECTION:posts-->
 
-## My GPG Keys
-* [E4458C31C653F52B](https://keybase.io/datagenx/pgp_keys.asc )
+## My GPG Key
+* [E4458C31C653F52B](https://keybase.io/datagenx/pgp_keys.asc) and Full Fingerprint is: [3CA4 DEDC 720C CF9B CEDF 1728 E445 8C31 C653 F52B](https://keyserver.ubuntu.com/pks/lookup?search=E4458C31C653F52B&fingerprint=on&op=index)
 
 ## My Github Stats
 <p align="center">
