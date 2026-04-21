@@ -45,7 +45,7 @@ I've been working in the industry as a software engineer and a consultant for al
 
 
 ### Tools 
-![My Skills](https://skillicons.dev/icons?i=linux,aws,gcp,docker,git,golang,python,kubernetes,postgresql,mongodb,bash,vim,vscode,)
+![My Skills](https://skillicons.dev/icons?i=linux,aws,gcp,docker,git,golang,python,kubernetes,openshift,postgresql,mongodb,bash,vim,vscode,)
 <!-- <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
